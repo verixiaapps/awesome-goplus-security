@@ -65,7 +65,7 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [ByteHunter](https://bytehunter.xyz/) - Web3 Personal Assets protector.
 - [Rugfree](t.me/rugfreebot) - A Tool to Scan Crypto Contracts for rug pulls.
 - [deepw3b](https://deepw3b.com/) - Crafting Crypto Solutions, Empowering Your Journey.
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
 
 ### Wallet
